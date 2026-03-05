@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "YL2RN25V3N.com.typhonsolutions.chiron.beta",
+        "paths": [
+          "/",
+          "/register/*",
+          "/login/*"
+        ]
+      }
+    ]
+  }
+}
