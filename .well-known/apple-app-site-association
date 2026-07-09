@@ -6,7 +6,9 @@
         "paths": [
           "/",
           "/register/*",
-          "/login/*"
+          "/login/*",
+          "/coaches/*",
+          "/events/*"
         ]
       }
     ]
