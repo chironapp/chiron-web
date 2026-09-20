@@ -2,6 +2,16 @@
   "applinks": {
     "details": [
       {
+        "appID": "YL2RN25V3N.com.typhonsolutions.chiron",
+        "paths": [
+          "/",
+          "/register/*",
+          "/login/*",
+          "/coaches/*",
+          "/events/*"
+        ]
+      },
+      {
         "appID": "YL2RN25V3N.com.typhonsolutions.chiron.beta",
         "paths": [
           "/",
